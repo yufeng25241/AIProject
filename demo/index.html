@@ -1,0 +1,29 @@
+<!doctype html>
+<html lang="zh-Hant">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>Demo 範例</title>
+    <style>
+      body { font-family: Arial, sans-serif; padding: 2rem; }
+      button { padding: .5rem 1rem; font-size: 1rem; }
+      #msg { margin-top: 1rem; color: #1a73e8; }
+    </style>
+  </head>
+  <body>
+    <h1>Hello — Demo 範例</h1>
+    <p>按下按鈕以查看互動效果：</p>
+    <button id="btn">按我</button>
+    <div id="msg">目前尚未操作。</div>
+
+    <script>
+      const btn = document.getElementById('btn');
+      const msg = document.getElementById('msg');
+      let count = 0;
+      btn.addEventListener('click', () => {
+        count += 1;
+        msg.textContent = `您已按下按鈕 ${count} 次。`;
+      });
+    </script>
+  </body>
+</html>
