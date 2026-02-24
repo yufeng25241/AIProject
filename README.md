@@ -43,5 +43,10 @@ git push -u origin main
 
 若您已將圖檔上傳為 `assets/architecture.png`，此處會直接顯示；否則請將您剛剛上傳的圖片存為該檔名，或允許我替您把附件加入至該路徑。
 
+## 智能體
+
+以下為智能體示意圖：
+
+![Aiagent](docs/screenshots/Aiagent.png)
+
 接下來
-- 如果您要我直接在當前目錄初始化 git、建立遠端並推上 GitHub，請提供您的 GitHub 使用者名稱與欲建立的 repo 名稱，或回覆「讓你選」。
