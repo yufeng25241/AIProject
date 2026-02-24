@@ -47,6 +47,6 @@ git push -u origin main
 
 以下為智能體示意圖：
 
-![Aiagent](docs/screenshots/Aiagent.png)
+![Aiagent](docs/screenshots/AIAgent.png)
 
 接下來
