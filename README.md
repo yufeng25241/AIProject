@@ -39,7 +39,7 @@ git push -u origin main
 
 以下為本專案的架構示意圖（將顯示 `assets/architecture.png`）：
 
-![Architecture Diagram](assets/architecture.png)
+![Architecture Diagram](docs/screenshots/architecture.png)
 
 若您已將圖檔上傳為 `assets/architecture.png`，此處會直接顯示；否則請將您剛剛上傳的圖片存為該檔名，或允許我替您把附件加入至該路徑。
 
