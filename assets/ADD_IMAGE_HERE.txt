@@ -1,0 +1,11 @@
+請將欲顯示於 `README.md` 的架構圖（附件）存為 `architecture.png`，並放在此資料夾：
+
+路徑： `assets/architecture.png`
+
+說明：
+- 若您已經有該檔案，請複製/移動到此資料夾。README 中會自動顯示該圖片。
+- 若您希望我替您上傳圖片，請回覆「請幫我上傳圖片」，並把圖片檔再次附上對話，我會直接把它加入到 `assets/architecture.png`。
+
+注意：檔名與大小寫需精確匹配（`architecture.png`）。
+
+感謝！
