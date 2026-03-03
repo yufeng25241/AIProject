@@ -4,6 +4,8 @@
 
 ![Architecture Diagram](docs/screenshots/architecture.png)
 
+📐 [查看 Mermaid 互動架構圖](docs/architecture.md)
+
 ## 智能體
 
 以下為智能體示意圖：
